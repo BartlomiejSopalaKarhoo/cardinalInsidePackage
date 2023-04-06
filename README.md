@@ -1,4 +1,4 @@
 # cardinal
 
-A description of this package.
+SPM with Cardinal mobile xcframework inside.
 
